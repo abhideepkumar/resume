@@ -1,0 +1,100 @@
+@import url("https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Roboto+Slab&family=Sacramento&display=swap");
+body {
+  font-family: "Roboto Slab", serif;
+}
+
+h1 {
+  font-size: 50px;
+  color: firebrick;
+  padding: 2% 10%;
+  text-align: center;
+}
+h5 {
+  padding-bottom: 5%;
+}
+h3 {
+  color: gray;
+}
+
+li {
+  padding: 0% 5%;
+}
+#home {
+  background-color: #fbe6e6;
+  padding: 0%;
+}
+#contact {
+  background-color: #ffd2d2;
+}
+#home h1 {
+  padding: 0%;
+  text-align: start;
+}
+#about h5 {
+  text-align: start;
+}
+.pad {
+  padding-bottom: 10%;
+}
+
+.brand-img {
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+}
+
+
+.name {
+  font-family: "Sacramento", cursive;
+  font-weight: 600;
+  font-size: 50px;
+  color: firebrick;
+}
+.home-img {
+  width: 75%;
+  height: 90%;
+  border-radius: 10%;
+}
+.icon-img {
+  padding: 10px 50px;
+  font-size: 50px;
+  text-align: start;
+}
+
+.education-img {
+  margin: auto;
+  width: 50%;
+}
+
+.html-css {
+  color: #ff642a;
+}
+.css-css {
+  color: #2a39ff;
+}
+.bt-css {
+  color: #732ff9;
+}
+.js-css {
+  color: #f3e707;
+}
+
+.cpp-css{
+  color:#659bd3 ;
+}
+.fb-css{
+  color:#f2c129;
+}
+
+.gh-css{
+  color: #f05033;
+}
+
+.card {
+  background-color: rgb(253, 232, 232);
+  border-width: 2px;
+  font-family: "Roboto Slab", serif;
+}
+.p-f{
+width: 50%;
+}

@@ -1,0 +1,113 @@
+.container-fluid{
+    padding:3% 10%;
+}
+
+#title{
+    background-color: pink;
+    color: aliceblue;
+}
+.title-img{
+    width: 60%;
+    transform: rotate(25deg);
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 60px;
+}
+
+
+.nav-font{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+}
+
+.navbar-brand{
+    font-family: 'Kaushan Script', sans-serif;
+    font-size: 30px;
+}
+
+
+.download-btn{
+    margin: 3% 5%;
+}
+
+
+
+.feature-img{
+font-size: 100px;
+color: #fd6ec1;
+margin-bottom: 15px;
+}
+.b-font{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+}
+
+.feature-img:hover{
+    color: #fc008f;
+}
+
+.col-fixer{
+    margin: 0px;
+    padding: 0px;
+}
+
+#testimonials{
+    background-color:pink;
+    padding: 5%;
+}
+
+.testimonial-img{
+    border-radius: 25%;
+}
+.testi-name{
+    font-weight: 400;
+}
+.carousel-item{
+    padding: 0% 15%;
+}
+
+.card-img-top{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    }
+
+    .card-pad{
+        padding: 2% 4%;
+    }
+    .btn-primary{
+        background-color: #f37d42;
+        border: none;
+    }
+.btn-primary:hover{
+    background-color: #b83535;
+}
+.logo-img{
+ width: 20%;
+padding: 1% 5%;
+}
+#press{
+    background-color: #D0ADA7;
+    padding: 2% 1%;
+    text-align: center;
+}
+#cta{
+    font-family:'Montserrat', sans-serif;
+}
+
+.footer{
+    background-color: #D0ADA7;
+}
+
+.footer-img{
+    padding-right: 2%;
+}
+
+.bc{
+    background-color: purple;
+    color: purple;
+}
